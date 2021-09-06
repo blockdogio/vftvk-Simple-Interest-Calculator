@@ -1,7 +1,7 @@
 
 body {background-color:black;font-family:arial;color:black}
 h1{color:grey;font-family:verdana}
-
+div{margin: 20px;}
 
 
 
@@ -17,5 +17,9 @@ h1{color:grey;font-family:verdana}
     text-align: center
     ;
     
+}
+
+.result {
+    background-color: yellow;
 }
 
